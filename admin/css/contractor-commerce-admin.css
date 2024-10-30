@@ -1,0 +1,10 @@
+.concom-head {
+    background-color: #fff;
+    background-image: url("../img/ConCom-Logo-Vector-Scaled-1.svg");
+    background-repeat: no-repeat;
+    background-position: 2% 50%;
+    box-shadow: 0 1px 0 #c3c4c7, 0 1px 1px 1px rgb(0 0 0 / 4%);
+    padding: 10px 30px;
+    height: 80px;
+    margin-left: -20px;
+}
